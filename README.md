@@ -1,1 +1,1 @@
-This is a template of portfolio created using the javascript and bootstrap.
+This is a web template of portfolio created using the javascript and bootstrap.
