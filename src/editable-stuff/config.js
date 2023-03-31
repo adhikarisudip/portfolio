@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/sudip.png"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "Hi, my name is Sudip Adhikari. I am currently pursuing Electronics and Communication degree. Including the electronics designs, I also offer the services such as web development, mobile app development, UI/UX designs, electronics designs, technical content writing, and other related fields.",
   resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
